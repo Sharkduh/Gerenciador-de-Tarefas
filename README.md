@@ -23,3 +23,5 @@ Este projeto é uma aplicação de gerenciamento de tarefas com interface gráfi
    ```bash
    git clone https://github.com/seuusuario/gerenciador_de_tarefas.git
    cd gerenciador_de_tarefas
+python gerenciador_de_tarefas.py
+
